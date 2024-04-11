@@ -1,4 +1,4 @@
-# [<img src="client/public/checkmark.png" style="height:1.5rem;"/> Todo App](https://todo-nandhu.vercel.app)
+# [<img src="client/public/checkmark.png" width="24" height="24"> Todo App](https://todo-nandhu.vercel.app)
 
 This is a Todo application built using the MERN stack. It allows users to manage their tasks effectively.
 
